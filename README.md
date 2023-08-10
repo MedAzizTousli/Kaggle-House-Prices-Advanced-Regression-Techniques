@@ -14,6 +14,7 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 - Feature engineering
 
 **Instructions:**
+
 0. Import libraries
 1. Load the data 
 2. Clean the data
