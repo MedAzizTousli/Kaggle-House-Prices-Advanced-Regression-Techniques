@@ -6,7 +6,7 @@ This project was carried out as part of the training of engineers at Tunisia Pol
 # Project Link
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
-![House Prices]([URL](https://storage.googleapis.com/kaggle-competitions/kaggle/5407/logos/front_page.png))
+![House Prices](https://storage.googleapis.com/kaggle-competitions/kaggle/5407/logos/front_page.png)
 
 **Necessary Skills:**
 - Python programming language
