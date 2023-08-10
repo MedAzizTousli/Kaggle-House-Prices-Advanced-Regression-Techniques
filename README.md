@@ -8,13 +8,12 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 ![House Prices](https://storage.googleapis.com/kaggle-media/competitions/House%20Prices/kaggle_5407_media_housesbanner.png)
 
-**Necessary Skills:**
+# Necessary Skills
 - Python programming language
 - Machine Learning basics
 - Feature engineering
 
-**Instructions:**
-
+# Instructions
 0. Import libraries
 1. Load the data 
 2. Clean the data
