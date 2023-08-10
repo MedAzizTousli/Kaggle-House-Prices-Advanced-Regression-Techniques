@@ -1,5 +1,5 @@
 # House Prices: Advanced Regression Techniques - Full Guide
-This is one of the most best competitions for beginners on Kaggle. The main objective of this competition is to build a regression model in order to predict house sales prices using Machine Learning algorithms while practicing feature engineering, RFs, and gradient boosting.
+This is one of the best competitions for beginners on Kaggle. The main objective of this competition is to build a regression model in order to predict house sales prices using Machine Learning algorithms while practicing feature engineering, RFs, and gradient boosting.
 
 This project was carried out as part of the training of engineers at Tunisia Polytechnic School under the module "Data Analysis" taught in second year.
 
